@@ -1,11 +1,6 @@
 # Unsupervised-Anomaly-Detection
 This is an implementation of the paper [PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization](https://arxiv.org/pdf/2011.08785).   
 
-This code is heavily borrowed from both SPADE-pytorch(https://github.com/byungjae89/SPADE-pytorch) and MahalanobisAD-pytorch(https://github.com/byungjae89/MahalanobisAD-pytorch) projects
-<p align="center">
-    <img src="imgs/pic1.png" width="1000"\>
-</p>
-
 ## Requirement
 * python == 3.7
 * pytorch == 1.5
@@ -15,6 +10,7 @@ This code is heavily borrowed from both SPADE-pytorch(https://github.com/byungja
 
 ## Datasets
 MVTec AD datasets : Download from [MVTec website](https://www.mvtec.com/company/research/datasets/mvtec-ad/)
+Btad datasets: Download from {Btad website}(https://datasetninja.com/btad)
 
 
 ## Results
@@ -130,6 +126,5 @@ MVTec AD datasets : Download from [MVTec website](https://www.mvtec.com/company/
 ## Reference
 [1] Thomas Defard, Aleksandr Setkov, Angelique Loesch, Romaric Audigier. *PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization*. https://arxiv.org/pdf/2011.08785
 
-[2] https://github.com/byungjae89/SPADE-pytorch
+[2] [https://github.com/byungjae89/SPADE-pytorch](https://github.com/xiahaifeng1995/PaDiM-Anomaly-Detection-Localization-master/blob/main/README.md?plain=1)
 
-[3] https://github.com/byungjae89/MahalanobisAD-pytorch
