@@ -11,7 +11,7 @@ This is an implementation of the paper [PaDiM: a Patch Distribution Modeling Fra
 ## Datasets
 MVTec AD datasets : Download from [MVTec website](https://www.mvtec.com/company/research/datasets/mvtec-ad/)
 
-Btad datasets: Download from {Btad website}(https://datasetninja.com/btad)
+Btad datasets: Download from [Btad website](https://datasetninja.com/btad/)
 
 
 ## Results
