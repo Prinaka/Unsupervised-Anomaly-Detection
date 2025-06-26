@@ -2,8 +2,8 @@
 This is an implementation of the paper [PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization](https://arxiv.org/pdf/2011.08785).   
 
 ## Requirement
-* python == 3.7
-* pytorch == 1.5
+* python == 3.11
+* pytorch == 2.6
 * tqdm
 * sklearn
 * matplotlib
