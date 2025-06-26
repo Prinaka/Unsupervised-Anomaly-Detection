@@ -11,9 +11,6 @@ This is an implementation of the paper [PaDiM: a Patch Distribution Modeling Fra
 ## Datasets
 MVTec AD datasets : Download from [MVTec website](https://www.mvtec.com/company/research/datasets/mvtec-ad/)
 
-Btad datasets: Download from [BTAD website](https://datasetninja.com/btad/)
-
-
 ## Reference
 [1] Thomas Defard, Aleksandr Setkov, Angelique Loesch, Romaric Audigier. *PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization*. https://arxiv.org/pdf/2011.08785
 
